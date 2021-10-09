@@ -7,7 +7,6 @@ export default function Hero() {
         <div className="pop"></div>
         <div className="hero-mask"></div>
         <div>
-          {/* <img src="/assets/images/hero-banner.jpeg" alt="Banner MARVEL" /> */}
         </div>
       </Content>
 

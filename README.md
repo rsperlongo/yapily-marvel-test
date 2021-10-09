@@ -3,7 +3,7 @@ This project has like purpose to consume [API da MARVEL](https://developer.marve
 
 ## Visit the website :link:
 
-This web app can visited by the link: [https://yapily-marvel-test.vercel.app/](https://marvel-app-alpha.vercel.app/)
+This web app can visited by the link: [https://yapily-marvel-test.vercel.app/](https://marvel-app.vercel.app/)
 
 Published by [Vercel](https://vercel.com/).
 

@@ -18,6 +18,7 @@ const LIMIT = 20;
 interface Characters {
   id: number;
   name: string;
+  dataType: string;
   thumbnail: {
     path: string;
     extension: string;
