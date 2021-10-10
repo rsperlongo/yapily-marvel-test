@@ -1,12 +1,6 @@
 # MARVEL APP :atom_symbol:
 This project has like purpose to consume [API da MARVEL](https://developer.marvel.com/) display for the user a project with [React](https://pt-br.reactjs.org/). To request the datas was used in this project the package ```axios```.
 
-## Visit the website :link:
-
-This web app can visited by the link: [https://yapily-marvel-test.vercel.app/](https://marvel-app.vercel.app/)
-
-Published by [Vercel](https://vercel.com/).
-
 ## About the project 
 
 The homepage lists the characters, it is possible to navigate between the paginations.
@@ -20,7 +14,7 @@ Clicking on a character's card will redirect you to the page that details the re
 - [TypeScript](https://www.typescriptlang.org/)
 
 
-## Vamos começar? :smiley:
+## Let's start? :smiley:
 ### How to install the project
 
 After clone repository [repository Github](https://github.com/rsperlongo/yapily-marvel-test), navitage to root of the project, open up the terminal and execute this command
